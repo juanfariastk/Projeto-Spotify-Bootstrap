@@ -72,7 +72,7 @@ html, body, #principal{
 }
 
 body{
-    background: url(imagens/capa.png), url(imagens/ruido.png), linear-gradient(50deg, #ff4169,#7c26f8);
+    background: url(../imagens/capa.png), url(../imagens/ruido.png), linear-gradient(50deg, #ff4169,#7c26f8);
     background-attachment: fixed;
     font-family: 'Montserrat', sans-serif !important;
 } 
